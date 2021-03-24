@@ -10,9 +10,7 @@ const Header = (): JSX.Element => {
   const { cart } = useCart();
 
   // ->
-
   const cartSize = cart.length;
-
   // <-
 
   return (
