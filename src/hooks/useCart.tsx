@@ -39,7 +39,7 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
     try {
 
       // ->
-                                        //retorna o primeiro elemento encontrado
+      //retorna o primeiro elemento encontrado
       const productAlreadyInCart = cart.find(product => product.id === productId);
 
       if(!productAlreadyInCart) {
