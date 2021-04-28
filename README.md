@@ -1,4 +1,4 @@
-# Chapter 3 - Desafio: Criando uma aplicação do zero (Desafio Principal)
+# Chapter 2 - Criando um hook de carrinho de compras (Desafio Principal)
 
 Nesse desafio, criei uma aplicação para treinar o que aprendi até agora no ReactJS
 
