@@ -26,7 +26,7 @@ Nesse desafio, criei uma aplicação para treinar o que aprendi até ag
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-utilizar">Como utilizar</a>
+  <a href="#ℹ️-Como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ![Rocketshoes](./public/rocketshoes.gif)
