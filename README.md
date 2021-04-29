@@ -79,7 +79,7 @@ Este Desafio visa o aprendizado com ReactJS e TypeScript.
 ### Iniciando aplicação
 
 ```bash
-    # Iniciando "servidor" JSON Server
+    # Iniciando aplicação
     $ yarn start
 
     # A aplicação será aberta na porta:3000 - Basta acessar: http://localhost:3000 
