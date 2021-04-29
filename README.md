@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alig src="./public/logo.svg" width=90% alt="Desafio RocketShoes">
+<img alig src="./public/logo.svg" width=500 alt="Desafio RocketShoes">
   <br>
   <br>
     Chapter 2 - Desafio Principal
@@ -19,7 +19,9 @@
   <img alt="Top Language" src="https://img.shields.io/github/languages/top/rnatu/ignite-desafio-criando-um-hook-de-carrinho-de-compras?style=for-the-badge">
 </p>
 
+<p align="center">
 Nesse desafio, criei uma aplicação para treinar o que aprendi até agora no ReactJS
+</p>
 
 <p align="center">
   <a href="#-sobre">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
