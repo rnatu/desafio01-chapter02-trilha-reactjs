@@ -16,11 +16,11 @@ Nesta aplicação o meu principal objetivo foi criar um hook de carrinho de com
 
 Este Desafio visa o aprendizado com ReactJS e TypeScript.
 
-### 📷 Resultado
+## 📷 Resultado
 
 ![Rocketshoes](./public/rocketshoes.gif)
 
-### 🚀 As tecnologias utilizadas foram
+## 🚀 As tecnologias utilizadas foram
 
 - ReactJS
   - styled-components
