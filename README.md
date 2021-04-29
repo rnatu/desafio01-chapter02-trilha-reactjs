@@ -24,11 +24,12 @@ Nesse desafio, criei uma aplicação para treinar o que aprendi até ag
 </p>
 
 <p align="center">
-  <a href="#-sobre">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-utilizar">Como utilizar</a>
 </p>
+
+![Rocketshoes](./public/rocketshoes.gif)
 
 ## 📜 Sobre o projeto
 
@@ -43,10 +44,6 @@ Nesta aplicação o meu principal objetivo foi criar um hook de carrinho de com
 - Entre outros.
 
 Este Desafio visa o aprendizado com ReactJS e TypeScript.
-
-## 📷 Resultado
-
-![Rocketshoes](./public/rocketshoes.gif)
 
 ## 🚀 Tecnologias utilizadas
 
