@@ -10,7 +10,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-martins92/">
+  <a href="https://www.linkedin.com/in/rnatu/">
     <img alt="Made By" src="https://img.shields.io/static/v1?label=Made%20By&message=Renato%20Xavier&color=6C4FBB&style=for-the-badge">
   </a>
 
